@@ -1,5 +1,6 @@
 in this project i have done analysis on video game sales data
 Dataset has been taken from maven analytics.io were it contains one table 
+Tools used are: SQL and Excel
 It totallu contains 16237  rows 
 in this project i have done analysis on games in which user are interested
 Sports, Platform, and Racing genres have the highest-selling games globally.
