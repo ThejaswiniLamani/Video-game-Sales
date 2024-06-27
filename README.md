@@ -14,3 +14,5 @@ Nintendo, Electronic Arts, and Activision are among the top publishers by total 
 "Pokemon Red/Blue" has the highest sales in Japan.
 The Action genre has the highest number of games with global sales over 10 million.
 
+
+[Video_game_research.pptx](https://github.com/user-attachments/files/16010034/Video_game_research.pptx)
